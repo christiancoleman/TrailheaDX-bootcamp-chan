@@ -1,0 +1,6 @@
+.sfdx
+.vscode
+.DS_Store
+assets/mdapi
+.prettierignore
+.prettierrc
